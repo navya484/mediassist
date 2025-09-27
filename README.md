@@ -1,7 +1,8 @@
 # MedAssist
+
 AI-Powered Real-Time Clinical Documentation & Prescription System
 
- Project Ideology
+Project Ideology
 
 MediAssist AI aims to digitize and automate medical documentation by converting doctor-patient conversations into structured, standardized clinical records.
 
@@ -21,7 +22,8 @@ This system reduces manual effort, improves accuracy, and enables data-driven cl
 
 🗄 Securely storing everything in MongoDB for future retrieval and analytics
 
- Methodology
+Methodology
+
 1. Audio Capture / Upload
 
 Real-time audio recording via mic 🎤 or uploaded consultation recordings
@@ -76,7 +78,7 @@ Stores transcripts, SOAP notes, codes, and prescriptions in MongoDB
 
 Supports multi-doctor collaboration & multi-patient records
 
- Tech Stack
+Tech Stack
 
 Frontend → React.js, CSS
 
@@ -93,4 +95,3 @@ Generative AI → Google Gemini API
 Database → MongoDB
 
 Standardization → ICD-10, CPT, ATC
-
